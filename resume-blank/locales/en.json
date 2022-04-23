@@ -1,0 +1,46 @@
+{
+    "sidebar": {
+        "about": "About",
+        "experience": "Experience",
+        "education": "Education",
+        "skills": "Skills",
+        "interests": "Interests",
+        "contact": "Contact"
+    },
+    "footer": {
+        "copyright": "Copyright.",
+        "all-rights-reserved": "All rights reserved."
+    },
+    "about": {
+        "title": "Title",
+        "title2": "Title 2",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis, architecto, quos sint porro dicta, molestiae officiis facilis magni quasi dolores illum enim id dolore quia voluptate voluptates laboriosam commodi beatae?"
+    },
+    "experience": {
+        "position": "Position",
+        "company": "Company",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis, architecto, quos sint porro dicta, molestiae officiis facilis magni quasi dolores illum enim id dolore quia voluptate voluptates laboriosam commodi beatae?"
+    },
+    "education": {
+        "school": "Some University",
+        "degree": "Bachelor's Degree",
+        "department": "Some Department"
+    },
+    "skills": {
+        "skill-name": {
+            "title": "Skill Title",
+            "experience": "Skill Experience",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis, architecto, quos sint porro dicta, molestiae officiis facilis magni quasi dolores illum enim id dolore quia voluptate voluptates laboriosam commodi beatae?"
+        }
+    },
+    "interests": {
+        "text1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis, architecto, quos sint porro dicta, molestiae officiis facilis magni quasi dolores illum enim id dolore quia voluptate voluptates laboriosam commodi beatae?",
+        "text2": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis, architecto, quos sint porro dicta, molestiae officiis facilis magni quasi dolores illum enim id dolore quia voluptate voluptates laboriosam commodi beatae?"
+    },
+    "contact": {
+        "email": "Email",
+        "website": "Website",
+        "phone": "Phone",
+        "socials": "Socials"
+    }
+}
